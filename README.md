@@ -9,7 +9,7 @@ In this project, we implement our collaborative machine learning (ML) training p
 - The blockchain also records all the transaction data and the incentive mechanism defined in the smart contract.
 
 
-If you make use of this code, please kindly cite our paper:
+If this project is helpful to your work, please kindly cite our paper:
 ```
 @article{ding2022investigation,
   title={An Investigation of Smart Contract for Collaborative Machine Learning Model Training},
