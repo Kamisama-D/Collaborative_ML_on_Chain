@@ -18,3 +18,15 @@ If this project is helpful to your work, please kindly cite our paper:
   year={2022}
 }
 ```
+
+Another related paper: 
+```
+@inproceedings{ding2022survey,
+  title={Survey on the convergence of machine learning and blockchain},
+  author={Ding, Shengwen and Hu, Chenhui},
+  booktitle={Proceedings of SAI Intelligent Systems Conference},
+  pages={170--189},
+  year={2022},
+  organization={Springer}
+}
+```
